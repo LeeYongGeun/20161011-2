@@ -56,3 +56,4 @@ func(1, c=3)\
 print(func(1).__doc__)
 def func():
     pass #아무런 효과없음, 함수짤때자리 미리잡아놓을때용도
+dfdf
